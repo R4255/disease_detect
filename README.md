@@ -8,10 +8,3 @@ The dataset consists of thousands of labeled images of diseased and healthy plan
 
 ## Model Architecture
 The CNN model was built using TensorFlow and Keras. It includes multiple convolutional layers, max-pooling layers, and dense layers to effectively learn and classify the complex features of plant diseases.
-
-## Setup and Installation
-
-### Clone the repository:
-```bash
-git clone https://github.com/yourusername/plant-disease-classification.git
-cd plant-disease-classification
